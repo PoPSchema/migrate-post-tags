@@ -1,5 +1,5 @@
 <?php
-namespace PoP\PostTags;
+namespace PoPSchema\PostTags;
 use PoP\Translation\Facades\TranslationAPIFacade;
 use PoP\Hooks\Facades\HooksAPIFacade;
 

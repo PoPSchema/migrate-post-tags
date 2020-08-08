@@ -1,5 +1,5 @@
 <?php
-use PoP\PostTags\TypeResolvers\PostTagTypeResolver;
+use PoPSchema\PostTags\TypeResolvers\PostTagTypeResolver;
 
 class PoP_PostTags_Module_Processor_FieldDataloads extends PoP_Tags_Module_Processor_FieldDataloads
 {

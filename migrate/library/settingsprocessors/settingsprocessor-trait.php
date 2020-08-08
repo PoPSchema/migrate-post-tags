@@ -1,5 +1,5 @@
 <?php
-namespace PoP\PostTags;
+namespace PoPSchema\PostTags;
 
 trait SettingsProcessor_Trait
 {

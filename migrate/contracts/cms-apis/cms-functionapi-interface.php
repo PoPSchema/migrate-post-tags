@@ -1,7 +1,7 @@
 <?php
-namespace PoP\PostTags;
+namespace PoPSchema\PostTags;
 
-interface FunctionAPI extends \PoP\Tags\FunctionAPI
+interface FunctionAPI extends \PoPSchema\Tags\FunctionAPI
 {
 
 }

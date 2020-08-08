@@ -6,7 +6,7 @@ Description: The foundation for a PoP PostTags
 Plugin URI: https://getpop.org/
 Author: Leonardo Losoviz
 */
-namespace PoP\PostTags;
+namespace PoPSchema\PostTags;
 use PoP\Hooks\Facades\HooksAPIFacade;
 
 //-------------------------------------------------------------------------------------

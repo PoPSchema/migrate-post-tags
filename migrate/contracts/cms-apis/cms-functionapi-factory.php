@@ -1,5 +1,5 @@
 <?php
-namespace PoP\PostTags;
+namespace PoPSchema\PostTags;
 
 class FunctionAPIFactory
 {

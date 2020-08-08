@@ -1,5 +1,5 @@
 <?php
-namespace PoP\PostTags;
+namespace PoPSchema\PostTags;
 
 abstract class FunctionAPI_Base implements FunctionAPI
 {

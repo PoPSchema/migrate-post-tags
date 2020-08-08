@@ -1,12 +1,12 @@
 {
-    "name": "getpop/migrate-post-tags",
+    "name": "pop-schema/migrate-post-tags",
     "type": "library",
-    "description": "(Temporary package) Migrate code to package https://github.com/getpop/post-tags. Target package description: Adds support for post tags",
+    "description": "(Temporary package) Migrate code to package https://github.com/pop-schema/post-tags. Target package description: Adds support for post tags",
     "keywords": [
         "PoP",
         "post-tags"
     ],
-    "homepage": "https://github.com/getpop/migrate-post-tags",
+    "homepage": "https://github.com/pop-schema/migrate-post-tags",
     "license": "MIT",
     "authors": [
         {
